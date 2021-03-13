@@ -1,6 +1,6 @@
 {
   "name": "commajs-table",
-  "version": "1.0.26",
+  "version": "1.0.27",
   "description": "Commajs - The WYSIWYG framework -  table plugin",
   "main": "dist/commajs-table.min.js",
   "repository": {
